@@ -1,7 +1,7 @@
 
 
 a{
-    color: rgb(51, 51, 94);
+    color: rgb(8, 8, 78);
 }
 div{
     background-color: #818694;
@@ -15,8 +15,9 @@ img{
     height: 330px;
 }
 a{
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
 }
 .background{
     background-image: url(img/texture-dark-background-purple-2560x2560-3086.jpg);
+    color: aliceblue;
 }
