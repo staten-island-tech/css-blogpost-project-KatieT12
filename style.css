@@ -3,6 +3,7 @@ h1{
     text-align: center;
     background-color: #1B5299;
     padding: 50px 25px;
+
     
     
 }
@@ -15,7 +16,7 @@ a{
 }
 div{
     background-color: #818694;
-    padding: 44px 37px;
+    text-align: center;
     
 }
 img{
